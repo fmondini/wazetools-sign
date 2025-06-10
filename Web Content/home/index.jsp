@@ -196,6 +196,7 @@
 		{ "<b>Script Writer</b>",			"scrp"	},
 		{ "<b>Traffic Event Marshal</b>",	"tem"	},
 		{ "<b>Partner Coordinator</b>",		"ccp"	},
+		{ "<b>WME Restrictions</b>",		"wmer"	},
 	});
 
 	// FillIconsUsageArray();
