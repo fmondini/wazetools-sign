@@ -203,6 +203,7 @@
 		{ "<b>WME Road Closures and Events</b>",	"wrce"	},
 		{ "<b>WME Advanced JB Training</b>",		"wajt"	},
 		{ "<b>WME Advanced Paths Training</b>",		"wapt"	},
+		{ "<b>WME Advanced Segments Editing</b>",	"wase"	},
 	});
 
 	// FillIconsUsageArray();
