@@ -195,6 +195,7 @@
 		{ "<b>Map Raider</b>",						"mapr"	},
 		{ "<b>Script Writer</b>",					"scrp"	},
 		{ "<b>Traffic Event Marshal</b>",			"tem"	},
+		{ "<b>MTE Marshal</b>",						"mtem"	},
 		{ "<b>Partner Coordinator</b>",				"ccp"	},
 		{ "<b>WME Basics</b>",						"wbc"	},
 		{ "<b>WME Editor Essential</b>",			"weee"	},
