@@ -196,6 +196,7 @@
 		{ "<b>Script Writer</b>",					"scrp"	},
 		{ "<b>Koifish Certified</b>",				"kfsh"	},
 		{ "<b>Traffic Event Marshal</b>",			"tem"	},
+		{ "<b>Issues &amp; Reports Certified</b>",	"issr"	},
 		{ "<b>Partner Coordinator</b>",				"ccp"	},
 		{ "<b>Crisis Response</b>",					"crsp"	},
 		{ "<b>MTE Marshal</b>",						"mtem"	},
