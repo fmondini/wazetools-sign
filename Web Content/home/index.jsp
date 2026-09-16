@@ -196,6 +196,7 @@
 		{ "<b>Script Writer</b>",					"scrp"	},
 		{ "<b>Partner Coordinator</b>",				"ccp"	},
 		{ "<b>Traffic Event Marshal</b>",			"tem"	},
+		{ "<b>Crisis Response</b>",					"crsp"	},
 		{ "<b>MTE Marshal</b>",						"mtem"	},
 		{ "<b>Waze Culture Chair</b>",				"wcc"	},
 		{ "<b>WME Basics</b>",						"wbc"	},
